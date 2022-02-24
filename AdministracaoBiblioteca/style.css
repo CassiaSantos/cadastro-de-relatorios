@@ -1,0 +1,24 @@
+a, .btn-success, .btn-danger, .btn-warning{
+    color: #ffffff;
+    text-decoration: none;
+}
+            
+.btn-success:hover, .btn-danger:hover, .btn-warning:hover{
+    color:#ffffff; 
+    text-decoration:none; 
+    cursor:pointer;
+    background:none;
+}
+
+.social-media{
+    text-decoration:none;
+    color: white;
+}
+
+.social-media:hover{
+    color: black;
+}
+
+textarea:focus, input:focus, select:focus {
+    outline: 0;
+}
